@@ -1,0 +1,47 @@
+[
+	{
+		"Facility": "Hospital A",
+		"avgCensus": 154,
+		"avgDetail": 174,
+		"avgDisp": 48,
+		"medianTimeFirstView": 0.7,
+		"medianTimeFirstDisp": 1.4,
+		"totalComp": "59%"
+	},
+	{
+		"Facility": "Hospital B",
+		"avgCensus": 80,
+		"avgDetail": 42,
+		"avgDisp": 10,
+		"medianTimeFirstView": 0.8,
+		"medianTimeFirstDisp": 4.5,
+		"totalComp": "38%"
+	},
+	{
+		"Facility": "Hospital C",
+		"avgCensus": 85,
+		"avgDetail": 66,
+		"avgDisp": 7,
+		"medianTimeFirstView": 0.5,
+		"medianTimeFirstDisp": 4.6,
+		"totalComp": "55%"
+	},
+	{
+		"Facility": "Hospital D",
+		"avgCensus": 58,
+		"avgDetail": 108,
+		"avgDisp": 20,
+		"medianTimeFirstView": 1.3,
+		"medianTimeFirstDisp": 1.8,
+		"totalComp": "35%"
+	},
+	{
+		"Facility": "Hospital System",
+		"avgCensus": 462,
+		"avgDetail": 390,
+		"avgDisp": 85,
+		"medianTimeFirstView": 0.6,
+		"medianTimeFirstDisp": 2.4,
+		"totalComp": "50%"
+	}
+]

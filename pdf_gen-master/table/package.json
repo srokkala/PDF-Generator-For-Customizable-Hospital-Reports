@@ -1,0 +1,21 @@
+{
+  "name": "table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createTable.js",
+  "scripts": {
+    "build:table": "node ./createTable.js",
+    "prebuild:pdf": "npm run build:table",
+    "build:pdf": "node ./createPdf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pdftron/pdfnet-node": "^7.1.1-1",
+    "finalhandler": "^1.1.2",
+    "pdf-image": "^2.0.0",
+    "puppeteer": "^3.0.4",
+    "serve-static": "^1.14.1"
+  }
+}
