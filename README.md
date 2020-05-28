@@ -1,6 +1,6 @@
 # PDF Generator For Customizable Hospital Reports
 
-## Installation
+## Installation and Use
 1. Change to the parent directory and run "npm install"
 
 2. The files “data.json” and “compData.json” will have placeholder data inside. The user is free 
